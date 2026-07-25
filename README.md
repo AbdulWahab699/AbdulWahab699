@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://upwork.com/freelancers/YOUR-UPWORK"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GH-USERNAME&color=38BDF8&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulWahab699&color=38BDF8&style=flat&label=Profile+Views" />
 </p>
 
 ---
@@ -68,22 +68,22 @@ React admin dashboard for recruitment management, integrated with a Django backe
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GH-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GH-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulWahab699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab699&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-GH-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulWahab699&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GH-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulWahab699&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GH-USERNAME/YOUR-GH-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AbdulWahab699/AbdulWahab699/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
